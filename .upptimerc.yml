@@ -6,16 +6,21 @@ sites:
   - name: Google
     url: https://www.google.com
   - name: Microsoft 365
-    url: https://github.com/kenundrem/ccsuptime/blob/master/m_365_status_dashboard_single_file.html
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+    url: https://status.cloud.microsoft/
+  - name: Adobe
+    url: https://status.adobe.com/
+  - name: Apple Services
+    url: https://www.apple.com/support/systemstatus/
+  - name: AWS
+    url: https://health.aws.amazon.com/health/status
+  - name: Odoo
+    url: https://www.saashub.com/odoo-status
+  - name: Zoom
+    url: https://www.zoomstatus.com/
+  - name: Google Cloud Services
+    url: https://status.cloud.google.com/
+  - name: Microsoft Azure
+    url: https://azure.status.microsoft/en-us/status
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
