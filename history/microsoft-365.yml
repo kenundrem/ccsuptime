@@ -1,7 +1,7 @@
-url: https://github.com/kenundrem/ccsuptime/blob/master/m_365_status_dashboard_single_file.html
+url: https://status.cloud.microsoft/
 status: up
 code: 200
-responseTime: 619
-lastUpdated: 2025-09-06T13:29:45.449Z
+responseTime: 65
+lastUpdated: 2025-09-06T14:13:32.994Z
 startTime: 2025-09-06T13:10:58.856Z
 generator: Upptime <https://github.com/upptime/upptime>
