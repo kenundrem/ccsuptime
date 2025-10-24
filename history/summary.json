@@ -114,19 +114,19 @@
     "url": "https://www.zoomstatus.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.zoomstatus.com.ico",
     "slug": "zoom",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 553,
-    "timeDay": 308,
-    "timeWeek": 1881,
-    "timeMonth": 717,
-    "timeYear": 553,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "97.60%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.95%",
+    "time": 549,
+    "timeDay": 311,
+    "timeWeek": 1707,
+    "timeMonth": 704,
+    "timeYear": 549,
     "dailyMinutesDown": {
-      "2025-10-24": 0
+      "2025-10-24": 35
     }
   },
   {
