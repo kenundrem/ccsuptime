@@ -114,18 +114,20 @@
     "url": "https://www.zoomstatus.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.zoomstatus.com.ico",
     "slug": "zoom",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 559,
-    "timeDay": 359,
-    "timeWeek": 2113,
-    "timeMonth": 732,
-    "timeYear": 559,
-    "dailyMinutesDown": {}
+    "time": 553,
+    "timeDay": 308,
+    "timeWeek": 1881,
+    "timeMonth": 717,
+    "timeYear": 553,
+    "dailyMinutesDown": {
+      "2025-10-24": 0
+    }
   },
   {
     "name": "Google Cloud Services",
