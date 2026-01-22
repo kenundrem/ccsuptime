@@ -1,7 +1,7 @@
 url: https://status.cloud.microsoft/
-status: up
-code: 200
-responseTime: 102
-lastUpdated: 2026-01-22T21:34:35.580Z
+status: down
+code: 429
+responseTime: 104
+lastUpdated: 2026-01-22T21:52:57.752Z
 startTime: 2025-09-06T13:10:58.856Z
 generator: Upptime <https://github.com/upptime/upptime>
