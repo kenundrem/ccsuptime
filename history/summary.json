@@ -10,15 +10,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 198,
-    "timeDay": 109,
-    "timeWeek": 74,
+    "time": 197,
+    "timeDay": 69,
+    "timeWeek": 72,
     "timeMonth": 125,
-    "timeYear": 198,
+    "timeYear": 197,
     "dailyMinutesDown": {
-      "2026-04-12": 58,
+      "2025-12-12": 22,
       "2025-12-13": 23,
-      "2025-12-12": 22
+      "2026-04-12": 58
     }
   },
   {
@@ -33,20 +33,20 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 135,
-    "timeDay": 127,
-    "timeWeek": 96,
-    "timeMonth": 101,
+    "timeDay": 177,
+    "timeWeek": 107,
+    "timeMonth": 105,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2026-03-05": 55,
-      "2026-02-01": 34,
-      "2026-01-23": 0,
-      "2026-01-22": 90,
-      "2026-01-17": 27,
-      "2026-01-15": 15,
-      "2025-12-15": 26,
+      "2025-09-12": 21,
       "2025-10-29": 41,
-      "2025-09-12": 21
+      "2025-12-15": 26,
+      "2026-01-15": 15,
+      "2026-01-17": 27,
+      "2026-01-22": 90,
+      "2026-01-23": 0,
+      "2026-02-01": 34,
+      "2026-03-05": 55
     }
   },
   {
@@ -60,11 +60,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 149,
-    "timeDay": 148,
-    "timeWeek": 85,
+    "time": 148,
+    "timeDay": 74,
+    "timeWeek": 89,
     "timeMonth": 98,
-    "timeYear": 149,
+    "timeYear": 148,
     "dailyMinutesDown": {}
   },
   {
@@ -78,11 +78,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 182,
-    "timeDay": 159,
-    "timeWeek": 134,
-    "timeMonth": 116,
-    "timeYear": 182,
+    "time": 183,
+    "timeDay": 314,
+    "timeWeek": 171,
+    "timeMonth": 124,
+    "timeYear": 183,
     "dailyMinutesDown": {}
   },
   {
@@ -97,9 +97,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 265,
-    "timeDay": 306,
-    "timeWeek": 362,
-    "timeMonth": 301,
+    "timeDay": 239,
+    "timeWeek": 358,
+    "timeMonth": 298,
     "timeYear": 265,
     "dailyMinutesDown": {}
   },
@@ -109,17 +109,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.saashub.com.ico",
     "slug": "odoo",
     "status": "up",
-    "uptime": "40.47%",
+    "uptime": "40.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "40.47%",
+    "uptimeYear": "40.70%",
     "time": 181,
-    "timeDay": 250,
-    "timeWeek": 210,
-    "timeMonth": 204,
+    "timeDay": 113,
+    "timeWeek": 196,
+    "timeMonth": 199,
     "timeYear": 181,
     "dailyMinutesDown": {
+      "2025-11-18": 101,
       "2026-04-23": 926,
       "2026-04-22": 1440,
       "2026-04-21": 1440,
@@ -274,8 +275,7 @@
       "2025-11-23": 1440,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
-      "2025-11-20": 1121,
-      "2025-11-18": 101
+      "2025-11-20": 1121
     }
   },
   {
@@ -290,13 +290,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 323,
-    "timeDay": 547,
-    "timeWeek": 293,
-    "timeMonth": 258,
+    "timeDay": 290,
+    "timeWeek": 300,
+    "timeMonth": 261,
     "timeYear": 323,
     "dailyMinutesDown": {
-      "2026-03-28": 65,
-      "2025-10-24": 35
+      "2025-10-24": 35,
+      "2026-03-28": 65
     }
   },
   {
@@ -310,11 +310,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 160,
-    "timeDay": 150,
-    "timeWeek": 111,
-    "timeMonth": 126,
-    "timeYear": 160,
+    "time": 159,
+    "timeDay": 111,
+    "timeWeek": 94,
+    "timeMonth": 128,
+    "timeYear": 159,
     "dailyMinutesDown": {}
   },
   {
@@ -328,11 +328,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 433,
-    "timeDay": 561,
-    "timeWeek": 453,
-    "timeMonth": 443,
-    "timeYear": 433,
+    "time": 434,
+    "timeDay": 479,
+    "timeWeek": 491,
+    "timeMonth": 425,
+    "timeYear": 434,
     "dailyMinutesDown": {
       "2025-09-30": 88
     }
