@@ -290,15 +290,15 @@
     "url": "https://www.zoomstatus.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.zoomstatus.com.ico",
     "slug": "zoom",
-    "status": "down",
-    "uptime": "99.59%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.59%",
+    "status": "up",
+    "uptime": "99.57%",
+    "uptimeDay": "95.50%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.57%",
     "time": 290,
-    "timeDay": 90,
-    "timeWeek": 184,
+    "timeDay": 130,
+    "timeWeek": 186,
     "timeMonth": 197,
     "timeYear": 290,
     "dailyMinutesDown": {
@@ -311,7 +311,7 @@
       "2026-06-14": 213,
       "2026-06-18": 83,
       "2026-06-22": 288,
-      "2026-08-01": 0
+      "2026-08-01": 65
     }
   },
   {
