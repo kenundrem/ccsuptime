@@ -115,16 +115,16 @@
     "url": "https://www.saashub.com/odoo-status",
     "icon": "https://icons.duckduckgo.com/ip3/www.saashub.com.ico",
     "slug": "odoo",
-    "status": "down",
-    "uptime": "56.27%",
-    "uptimeDay": "98.59%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "56.27%",
+    "status": "up",
+    "uptime": "56.26%",
+    "uptimeDay": "96.82%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "56.26%",
     "time": 183,
-    "timeDay": 185,
-    "timeWeek": 161,
-    "timeMonth": 177,
+    "timeDay": 200,
+    "timeWeek": 168,
+    "timeMonth": 179,
     "timeYear": 183,
     "dailyMinutesDown": {
       "2025-11-18": 101,
@@ -286,7 +286,7 @@
       "2026-08-19": 27,
       "2026-08-23": 21,
       "2026-08-24": 20,
-      "2026-08-25": 0
+      "2026-08-25": 26
     }
   },
   {
