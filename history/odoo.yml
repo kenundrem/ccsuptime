@@ -1,7 +1,7 @@
 url: https://www.saashub.com/odoo-status
-status: up
-code: 200
-responseTime: 187
-lastUpdated: 2026-10-24T01:20:45.619Z
+status: down
+code: 403
+responseTime: 109
+lastUpdated: 2026-10-24T17:01:31.941Z
 startTime: 2025-09-06T14:13:34.780Z
 generator: Upptime <https://github.com/upptime/upptime>
